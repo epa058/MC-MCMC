@@ -1,7 +1,7 @@
 
 # (Metropolis Coupling) Monte Carlo Markov Chain
 
-I didn't know what MCMCs were, but now I do. This project visualizes the electron orbitals of a hydrogen atom by sampling the wavefunction probability density $|\psi_{n l m}(r, \theta, \phi)|^2$ using Markov Chain Monte Carlo (MCMC) methods. It implements two sampling strategies:
+I didn't know what MCMCs were, but now I do. This project visualizes the electron orbitals of a hydrogen atom by sampling the wavefunction probability density $\left|\psi_{n \ell m}(r, \theta, \varphi)\right|^2$ using Markov Chain Monte Carlo (MCMC) methods. It implements two sampling strategies:
 
 - `Hydrogen MCMC`: A standard Metropolis-Hastings random walk.
 
