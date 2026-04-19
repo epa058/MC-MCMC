@@ -18,6 +18,10 @@ A: Because I didn't know what MCMCs were, and that was making me insecure. Actua
 
 A: Go [here](https://github.com/ssebastianmag/hydrogen-wavefunctions). 
 
+#### Q: Why would anyone use a MCMC when we know the analytical form of the hydrogen wavefunction?
+
+A: ~~Because I am stupid~~ Because if I implemented a Diffusion Monte Carlo (DMC) instead, I wouldn't be able to visualize anything other than the ground state due to the fixed-node error, which is an interesting problem. I'll work on it!
+
 #### Q: What next?
 
 A: The actual reason for wanting to do this project was because I came across [this video by minutephysics](https://www.youtube.com/watch?v=W2Xb2GFK2yc) a few years ago and wanted to recreate their animations, but couldn't find any of their source files. Turns out someone else had the exact same idea and beat me to it: [https://asliceofcuriosity.fr/blog/posts/rendering3.html](https://asliceofcuriosity.fr/blog/posts/rendering3.html) (Wagyx). Like them, I also want to get better at JavaScript, so I will try to make my own application. However, unlike them, I am lazy and will probably not get to it any time soon.
